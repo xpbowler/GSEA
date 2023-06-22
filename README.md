@@ -7,7 +7,7 @@ For example, GSEA can be performed on a normalized RNA-seq dataset to determine 
 
 ## About
 
-I performed a GSEA analysis of treatment effect differences in low- and high-fibrosis Hepatitis C patients. 
+This repository contains the results of a GSEA analysis on the treatment effect differences in low- and high-fibrosis Hepatitis C patients. 
 
 To view results:
 1. ```$ cd output```
