@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD274	CD274 molecule [Source:HGNC Symbol;Acc:HGNC:17635]	1056	0.7984568476676941	0.024327548	No	
+row_1	SH3RF1	SH3 domain containing ring finger 1 [Source:HGNC Symbol;Acc:HGNC:17650]	3192	0.5283969640731812	-0.03867906	No	
+row_2	SOCS1	suppressor of cytokine signaling 1 [Source:HGNC Symbol;Acc:HGNC:19383]	4198	0.4368214011192322	-0.048905086	No	
+row_3	CBFB	core-binding factor subunit beta [Source:HGNC Symbol;Acc:HGNC:1539]	5347	0.33495938777923584	-0.077531695	No	
+row_4	LILRB4	leukocyte immunoglobulin like receptor B4 [Source:HGNC Symbol;Acc:HGNC:6608]	5770	0.2996829152107239	-0.06981395	No	
+row_5	IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	6152	0.26625996828079224	-0.063291	No	
+row_6	ZBTB7B	zinc finger and BTB domain containing 7B [Source:HGNC Symbol;Acc:HGNC:18668]	9428	-0.01784663088619709	-0.24183823	No	
+row_7	VSIR	V-set immunoregulatory receptor [Source:HGNC Symbol;Acc:HGNC:30085]	9570	-0.028607044368982315	-0.24664912	No	
+row_8	NCKAP1L	NCK associated protein 1 like [Source:HGNC Symbol;Acc:HGNC:4862]	11901	-0.23745930194854736	-0.35045508	No	
+row_9	MAPK8IP1	mitogen-activated protein kinase 8 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:6882]	12392	-0.2807849943637848	-0.3484353	No	
+row_10	RUNX1	RUNX family transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:10471]	13565	-0.39493802189826965	-0.37218714	No	
+row_11	RUNX3	RUNX family transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:10473]	14302	-0.4691091775894165	-0.36426046	No	
+row_12	LILRB1	leukocyte immunoglobulin like receptor B1 [Source:HGNC Symbol;Acc:HGNC:6605]	15776	-0.6368868947029114	-0.37959453	Yes	
+row_13	PTPN22	protein tyrosine phosphatase non-receptor type 22 [Source:HGNC Symbol;Acc:HGNC:9652]	16204	-0.6899498701095581	-0.3318314	Yes	
+row_14	XCL1	X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10645]	16796	-0.7857943177223206	-0.2831993	Yes	
+row_15	HFE	homeostatic iron regulator [Source:HGNC Symbol;Acc:HGNC:4886]	16867	-0.7999259829521179	-0.20440985	Yes	
+row_16	HLA-A	"major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]"	16940	-0.8136236667633057	-0.12431539	Yes	
+row_17	HLA-E	"major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]"	16958	-0.8176732063293457	-0.040773068	Yes	
+row_18	CRTAM	cytotoxic and regulatory T cell molecule [Source:HGNC Symbol;Acc:HGNC:24313]	17745	-1.0418680906295776	0.02357469	Yes	

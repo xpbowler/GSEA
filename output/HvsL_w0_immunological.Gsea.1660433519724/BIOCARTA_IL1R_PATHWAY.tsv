@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	797	0.907148540019989	0.054321203	Yes	
+row_1	JUN	"Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]"	1444	0.7718017101287842	0.102305956	Yes	
+row_2	MAP2K6	mitogen-activated protein kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6846]	3589	0.4982362389564514	0.038111374	Yes	
+row_3	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	3675	0.4870198965072632	0.08617062	Yes	
+row_4	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	3692	0.4854932427406311	0.13786702	Yes	
+row_5	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	4699	0.3846887946128845	0.12408898	No	
+row_6	TAB1	TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [Source:HGNC Symbol;Acc:HGNC:18157]	6143	0.2485663741827011	0.07148666	No	
+row_7	IRAK2	interleukin 1 receptor associated kinase 2 [Source:HGNC Symbol;Acc:HGNC:6113]	7457	0.13126078248023987	0.013344443	No	
+row_8	MAP3K1	mitogen-activated protein kinase kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6848]	8617	0.028031090274453163	-0.04749066	No	
+row_9	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	8657	0.024864010512828827	-0.046947163	No	
+row_10	MAP2K3	mitogen-activated protein kinase kinase 3 [Source:HGNC Symbol;Acc:HGNC:6843]	8660	0.024544628337025642	-0.044399235	No	
+row_11	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	8887	0.005389915779232979	-0.05627005	No	
+row_12	MYD88	MYD88 innate immune signal transduction adaptor [Source:HGNC Symbol;Acc:HGNC:7562]	9537	-0.047221023589372635	-0.08692155	No	
+row_13	MAP3K7	mitogen-activated protein kinase kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6859]	10171	-0.10537964105606079	-0.110392824	No	
+row_14	RELA	"RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]"	10661	-0.14972028136253357	-0.12112645	No	
+row_15	IL1RN	interleukin 1 receptor antagonist [Source:HGNC Symbol;Acc:HGNC:6000]	10697	-0.152827650308609	-0.10650426	No	
+row_16	IRAK3	interleukin 1 receptor associated kinase 3 [Source:HGNC Symbol;Acc:HGNC:17020]	11291	-0.2032366394996643	-0.11717344	No	
+row_17	MAP3K14	mitogen-activated protein kinase kinase kinase 14 [Source:HGNC Symbol;Acc:HGNC:6853]	11438	-0.21419480443000793	-0.102022335	No	
+row_18	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	11478	-0.21740151941776276	-0.08062734	No	
+row_19	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	12312	-0.29013514518737793	-0.0951116	No	
+row_20	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	13116	-0.3603164851665497	-0.10034208	No	
+row_21	IL1A	interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	13135	-0.36245110630989075	-0.062081162	No	
+row_22	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	13816	-0.42333993315696716	-0.053707954	No	
+row_23	CHUK	component of inhibitor of nuclear factor kappa B kinase complex [Source:HGNC Symbol;Acc:HGNC:1974]	14148	-0.4529701769351959	-0.022892948	No	
+row_24	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	14459	-0.48139360547065735	0.01215755	No	
+row_25	IL1R1	interleukin 1 receptor type 1 [Source:HGNC Symbol;Acc:HGNC:5993]	14646	-0.4986962378025055	0.055915356	No	
+row_26	IL1RAP	interleukin 1 receptor accessory protein [Source:HGNC Symbol;Acc:HGNC:5995]	15999	-0.63662189245224	0.050353702	No	
+row_27	IRAK1	interleukin 1 receptor associated kinase 1 [Source:HGNC Symbol;Acc:HGNC:6112]	16043	-0.640796422958374	0.11738125	No	

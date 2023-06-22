@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STMN1	stathmin 1 [Source:HGNC Symbol;Acc:HGNC:6510]	240	1.0675621032714844	0.1476692	Yes	
+row_1	HBEGF	heparin binding EGF like growth factor [Source:HGNC Symbol;Acc:HGNC:3059]	2857	0.5611662268638611	0.088163234	Yes	
+row_2	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	3117	0.5364403128623962	0.15474315	Yes	
+row_3	SPRY1	sprouty RTK signaling antagonist 1 [Source:HGNC Symbol;Acc:HGNC:11269]	3971	0.45733776688575745	0.17668723	Yes	
+row_4	IL1RL1	interleukin 1 receptor like 1 [Source:HGNC Symbol;Acc:HGNC:5998]	5387	0.33194929361343384	0.14878236	No	
+row_5	PLAUR	"plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]"	5805	0.29642316699028015	0.17048855	No	
+row_6	MGST1	microsomal glutathione S-transferase 1 [Source:HGNC Symbol;Acc:HGNC:7061]	7841	0.11956815421581268	0.076430105	No	
+row_7	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	8037	0.10152613371610641	0.08099097	No	
+row_8	BCL3	BCL3 transcription coactivator [Source:HGNC Symbol;Acc:HGNC:998]	8505	0.05813605710864067	0.06403227	No	
+row_9	MMP10	matrix metallopeptidase 10 [Source:HGNC Symbol;Acc:HGNC:7156]	9335	-0.010422151535749435	0.01994562	No	
+row_10	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	9917	-0.058183278888463974	-0.0032845319	No	
+row_11	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	11526	-0.20172719657421112	-0.06144407	No	
+row_12	CA3	carbonic anhydrase 3 [Source:HGNC Symbol;Acc:HGNC:1374]	11913	-0.23902691900730133	-0.046680473	No	
+row_13	VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	12913	-0.32973799109458923	-0.052007325	No	
+row_14	LBH	LBH regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:29532]	15601	-0.614571750164032	-0.10737513	No	
+row_15	MVD	mevalonate diphosphate decarboxylase [Source:HGNC Symbol;Acc:HGNC:7529]	16010	-0.663774847984314	-0.02981143	No	
+row_16	FLNC	filamin C [Source:HGNC Symbol;Acc:HGNC:3756]	17635	-0.9879143834114075	0.029630387	No	

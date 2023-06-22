@@ -1,0 +1,34 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1660435175616
+param	zip_report	false
+param	num	100
+param	scoring_scheme	weighted
+param	norm	meandiv
+param	out	/Users/ryan_n/gsea_home/output/aug12
+param	mode	Max_probe
+param	include_only_symbols	true
+param	set_max	500
+param	gmx	/Users/ryan_n/Downloads/GOLDRATH_EFF_VS_MEMORY_CD8_TCELL_DN.v7.5.1.gmt,/Users/ryan_n/Downloads/GOLDRATH_EFF_VS_MEMORY_CD8_TCELL_UP.v7.5.1.gmt,/Users/ryan_n/Downloads/GOLDRATH_NAIVE_VS_EFF_CD8_TCELL_DN.v7.5.1.gmt,/Users/ryan_n/Downloads/GOLDRATH_NAIVE_VS_EFF_CD8_TCELL_UP.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE9650_NAIVE_VS_EXHAUSTED_CD8_TCELL_DN.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE9650_NAIVE_VS_EXHAUSTED_CD8_TCELL_UP.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE10239_MEMORY_VS_KLRG1HIGH_EFF_CD8_TCELL_DN.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE10239_MEMORY_VS_KLRG1HIGH_EFF_CD8_TCELL_UP.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE23321_EFFECTOR_MEMORY_VS_NAIVE_CD8_TCELL_DN.v7.5.1 (1).gmt,/Users/ryan_n/Downloads/GSE23321_EFFECTOR_MEMORY_VS_NAIVE_CD8_TCELL_UP.v7.5.1 (1).gmt,/Users/ryan_n/Downloads/GSE40666_NAIVE_VS_EFFECTOR_CD8_TCELL_DN.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE40666_NAIVE_VS_EFFECTOR_CD8_TCELL_UP.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE40666_NAIVE_VS_EFFECTOR_CD8_TCELL_WITH_IFNA_STIM_90MIN_DN.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE40666_NAIVE_VS_EFFECTOR_CD8_TCELL_WITH_IFNA_STIM_90MIN_UP.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE41867_DAY6_EFFECTOR_VS_DAY30_EXHAUSTED_CD8_TCELL_LCMV_CLONE13_DN.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE41867_DAY6_EFFECTOR_VS_DAY30_EXHAUSTED_CD8_TCELL_LCMV_CLONE13_UP.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE41867_DAY15_EFFECTOR_VS_DAY30_EXHAUSTED_CD8_TCELL_LCMV_CLONE13_DN.v7.5.1.gmt,/Users/ryan_n/Downloads/GSE41867_DAY15_EFFECTOR_VS_DAY30_EXHAUSTED_CD8_TCELL_LCMV_CLONE13_UP.v7.5.1.gmt
+param	plot_top_x	20
+param	nperm	1000
+param	order	descending
+param	rnd_seed	timestamp
+param	rpt_label	HvsL_w0_immunological
+param	set_min	15
+param	res	/Users/ryan_n/Downloads/expressiondataset.txt
+param	chip	/Users/ryan_n/Downloads/Human_ENSEMBL_Gene_MSigDB.v7.1.chip
+param	create_svgs	false
+param	cls	/Users/ryan_n/Downloads/phenotypes.cls#H_versus_L
+param	sort	real
+param	create_gcts	false
+param	help	false
+param	save_rnd_lists	false
+param	median	false
+param	metric	Signal2Noise
+param	make_sets	true
+param	rnd_type	no_balance
+param	gui	false
+param	permute	gene_set
+param	collapse	Collapse
+
+file	/Users/ryan_n/gsea_home/output/aug12/HvsL_w0_immunological.Gsea.1660435175616/index.html

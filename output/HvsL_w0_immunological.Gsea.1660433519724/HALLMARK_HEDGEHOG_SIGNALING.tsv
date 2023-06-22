@@ -1,0 +1,31 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GLI1	GLI family zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:4317]	80	1.4232853651046753	0.08902785	Yes	
+row_1	PLG	plasminogen [Source:HGNC Symbol;Acc:HGNC:9071]	314	1.1060986518859863	0.14880022	Yes	
+row_2	AMOT	angiomotin [Source:HGNC Symbol;Acc:HGNC:17810]	382	1.0646193027496338	0.21499856	Yes	
+row_3	CELSR1	cadherin EGF LAG seven-pass G-type receptor 1 [Source:HGNC Symbol;Acc:HGNC:1850]	574	0.9737437963485718	0.26839682	Yes	
+row_4	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	1366	0.7876729369163513	0.27651095	Yes	
+row_5	ADGRG1	adhesion G protein-coupled receptor G1 [Source:HGNC Symbol;Acc:HGNC:4512]	1576	0.7464683055877686	0.31399676	Yes	
+row_6	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	1638	0.7385849952697754	0.359122	Yes	
+row_7	VLDLR	very low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:12698]	1765	0.7209871411323547	0.39950952	Yes	
+row_8	TLE1	"TLE family member 1, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11837]"	1925	0.6968210339546204	0.4364918	Yes	
+row_9	NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	2635	0.6071434020996094	0.43727377	Yes	
+row_10	HEY2	hes related family bHLH transcription factor with YRPW motif 2 [Source:HGNC Symbol;Acc:HGNC:4881]	3043	0.559829831123352	0.4515943	Yes	
+row_11	LDB1	LIM domain binding 1 [Source:HGNC Symbol;Acc:HGNC:6532]	3974	0.458219438791275	0.43041924	Yes	
+row_12	OPHN1	oligophrenin 1 [Source:HGNC Symbol;Acc:HGNC:8148]	4056	0.4495454430580139	0.4554671	Yes	
+row_13	DPYSL2	dihydropyrimidinase like 2 [Source:HGNC Symbol;Acc:HGNC:3014]	4230	0.4323875606060028	0.474318	Yes	
+row_14	TLE3	"TLE family member 3, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11839]"	5393	0.31616517901420593	0.43103066	No	
+row_15	SLIT1	slit guidance ligand 1 [Source:HGNC Symbol;Acc:HGNC:11085]	5582	0.2989025413990021	0.44029173	No	
+row_16	RASA1	RAS p21 protein activator 1 [Source:HGNC Symbol;Acc:HGNC:9871]	6193	0.24414286017417908	0.42269948	No	
+row_17	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	7326	0.1424025595188141	0.3696583	No	
+row_18	SCG2	secretogranin II [Source:HGNC Symbol;Acc:HGNC:10575]	7417	0.13424788415431976	0.3735112	No	
+row_19	PML	promyelocytic leukemia [Source:HGNC Symbol;Acc:HGNC:9113]	7443	0.1325044482946396	0.38083208	No	
+row_20	NRP2	neuropilin 2 [Source:HGNC Symbol;Acc:HGNC:8005]	8605	0.028599491342902184	0.3187215	No	
+row_21	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	9063	-0.0077540273778140545	0.29404315	No	
+row_22	ETS2	"ETS proto-oncogene 2, transcription factor [Source:HGNC Symbol;Acc:HGNC:3489]"	10990	-0.17780029773712158	0.19956475	No	
+row_23	RTN1	reticulon 1 [Source:HGNC Symbol;Acc:HGNC:10467]	11498	-0.21949467062950134	0.1860312	No	
+row_24	HEY1	hes related family bHLH transcription factor with YRPW motif 1 [Source:HGNC Symbol;Acc:HGNC:4880]	12968	-0.3465978801250458	0.12782155	No	
+row_25	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	13724	-0.41397008299827576	0.11338665	No	
+row_26	ACHE	acetylcholinesterase (Cartwright blood group) [Source:HGNC Symbol;Acc:HGNC:108]	13987	-0.43836215138435364	0.12772459	No	
+row_27	CDK6	cyclin dependent kinase 6 [Source:HGNC Symbol;Acc:HGNC:1777]	14380	-0.4743826687335968	0.13726231	No	
+row_28	CDK5R1	cyclin dependent kinase 5 regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:1775]	14479	-0.4844699800014496	0.16366597	No	
+row_29	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	15753	-0.6073576807975769	0.13337736	No	

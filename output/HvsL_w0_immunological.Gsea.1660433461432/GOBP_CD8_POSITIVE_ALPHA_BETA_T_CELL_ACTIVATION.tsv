@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD274	CD274 molecule [Source:HGNC Symbol;Acc:HGNC:17635]	1056	0.7984568476676941	4.8732467E-4	No	
+row_1	SH3RF1	SH3 domain containing ring finger 1 [Source:HGNC Symbol;Acc:HGNC:17650]	3192	0.5283969640731812	-0.078326605	No	
+row_2	TNFSF8	TNF superfamily member 8 [Source:HGNC Symbol;Acc:HGNC:11938]	3497	0.5011026263237	-0.058253642	No	
+row_3	CLEC4A	C-type lectin domain family 4 member A [Source:HGNC Symbol;Acc:HGNC:13257]	4154	0.4406871497631073	-0.062016454	No	
+row_4	SOCS1	suppressor of cytokine signaling 1 [Source:HGNC Symbol;Acc:HGNC:19383]	4198	0.4368214011192322	-0.03228552	No	
+row_5	CBFB	core-binding factor subunit beta [Source:HGNC Symbol;Acc:HGNC:1539]	5347	0.33495938777923584	-0.07092829	No	
+row_6	LILRB4	leukocyte immunoglobulin like receptor B4 [Source:HGNC Symbol;Acc:HGNC:6608]	5770	0.2996829152107239	-0.072158985	No	
+row_7	IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	6152	0.26625996828079224	-0.0735866	No	
+row_8	WDFY4	WDFY family member 4 [Source:HGNC Symbol;Acc:HGNC:29323]	8798	0.03468899056315422	-0.21678352	No	
+row_9	ZBTB7B	zinc finger and BTB domain containing 7B [Source:HGNC Symbol;Acc:HGNC:18668]	9428	-0.01784663088619709	-0.25013152	No	
+row_10	VSIR	V-set immunoregulatory receptor [Source:HGNC Symbol;Acc:HGNC:30085]	9570	-0.028607044368982315	-0.25579873	No	
+row_11	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	9924	-0.058807455003261566	-0.27092838	No	
+row_12	NCKAP1L	NCK associated protein 1 like [Source:HGNC Symbol;Acc:HGNC:4862]	11901	-0.23745930194854736	-0.36236092	No	
+row_13	MAPK8IP1	mitogen-activated protein kinase 8 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:6882]	12392	-0.2807849943637848	-0.36872733	No	
+row_14	RUNX1	RUNX family transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:10471]	13565	-0.39493802189826965	-0.40428495	No	
+row_15	RUNX3	RUNX family transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:10473]	14302	-0.4691091775894165	-0.41036734	Yes	
+row_16	TOX	thymocyte selection associated high mobility group box [Source:HGNC Symbol;Acc:HGNC:18988]	14422	-0.47977691888809204	-0.38166755	Yes	
+row_17	LILRB1	leukocyte immunoglobulin like receptor B1 [Source:HGNC Symbol;Acc:HGNC:6605]	15776	-0.6368868947029114	-0.40941882	Yes	
+row_18	PTPN22	protein tyrosine phosphatase non-receptor type 22 [Source:HGNC Symbol;Acc:HGNC:9652]	16204	-0.6899498701095581	-0.3822458	Yes	
+row_19	XCL1	X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10645]	16796	-0.7857943177223206	-0.35706633	Yes	
+row_20	HFE	homeostatic iron regulator [Source:HGNC Symbol;Acc:HGNC:4886]	16867	-0.7999259829521179	-0.30214	Yes	
+row_21	HLA-A	"major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]"	16940	-0.8136236667633057	-0.24631728	Yes	
+row_22	HLA-E	"major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]"	16958	-0.8176732063293457	-0.18716633	Yes	
+row_23	CRTAM	cytotoxic and regulatory T cell molecule [Source:HGNC Symbol;Acc:HGNC:24313]	17745	-1.0418680906295776	-0.15391397	Yes	
+row_24	GPR18	G protein-coupled receptor 18 [Source:HGNC Symbol;Acc:HGNC:4472]	17853	-1.102919340133667	-0.078760594	Yes	
+row_25	EOMES	eomesodermin [Source:HGNC Symbol;Acc:HGNC:3372]	18045	-1.310971736907959	0.0070531433	Yes	

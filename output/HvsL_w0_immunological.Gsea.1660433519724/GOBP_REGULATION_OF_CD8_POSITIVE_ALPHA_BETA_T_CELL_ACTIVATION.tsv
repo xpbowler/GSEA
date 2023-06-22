@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CRTAM	cytotoxic and regulatory T cell molecule [Source:HGNC Symbol;Acc:HGNC:24313]	428	1.0418680906295776	0.084066845	Yes	
+row_1	HLA-E	"major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]"	1215	0.8176732063293457	0.12525168	Yes	
+row_2	HLA-A	"major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]"	1233	0.8136236667633057	0.20837562	Yes	
+row_3	HFE	homeostatic iron regulator [Source:HGNC Symbol;Acc:HGNC:4886]	1306	0.7999259829521179	0.2870549	Yes	
+row_4	XCL1	X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10645]	1377	0.7857943177223206	0.36438432	Yes	
+row_5	PTPN22	protein tyrosine phosphatase non-receptor type 22 [Source:HGNC Symbol;Acc:HGNC:9652]	1969	0.6899498701095581	0.40311414	Yes	
+row_6	LILRB1	leukocyte immunoglobulin like receptor B1 [Source:HGNC Symbol;Acc:HGNC:6605]	2397	0.6368868947029114	0.44539505	Yes	
+row_7	RUNX3	RUNX family transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:10473]	3871	0.4691091775894165	0.41272685	No	
+row_8	RUNX1	RUNX family transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:10471]	4608	0.39493802189826965	0.41299045	No	
+row_9	MAPK8IP1	mitogen-activated protein kinase 8 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:6882]	5781	0.2807849943637848	0.3774448	No	
+row_10	NCKAP1L	NCK associated protein 1 like [Source:HGNC Symbol;Acc:HGNC:4862]	6272	0.23745930194854736	0.37498835	No	
+row_11	VSIR	V-set immunoregulatory receptor [Source:HGNC Symbol;Acc:HGNC:30085]	8603	0.028607044368982315	0.2496046	No	
+row_12	ZBTB7B	zinc finger and BTB domain containing 7B [Source:HGNC Symbol;Acc:HGNC:18668]	8745	0.01784663088619709	0.24368198	No	
+row_13	IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	12021	-0.26625996828079224	0.09079982	No	
+row_14	LILRB4	leukocyte immunoglobulin like receptor B4 [Source:HGNC Symbol;Acc:HGNC:6608]	12403	-0.2996829152107239	0.1007759	No	
+row_15	CBFB	core-binding factor subunit beta [Source:HGNC Symbol;Acc:HGNC:1539]	12826	-0.33495938777923584	0.11213827	No	
+row_16	SOCS1	suppressor of cytokine signaling 1 [Source:HGNC Symbol;Acc:HGNC:19383]	13975	-0.4368214011192322	0.094035625	No	
+row_17	SH3RF1	SH3 domain containing ring finger 1 [Source:HGNC Symbol;Acc:HGNC:17650]	14981	-0.5283969640731812	0.09327082	No	
+row_18	CD274	CD274 molecule [Source:HGNC Symbol;Acc:HGNC:17635]	17117	-0.7984568476676941	0.05816571	No	
